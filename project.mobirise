@@ -65,7 +65,7 @@
     "versionPublish": "4.12.3",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/logo-128x184.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-128x128.png",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
